@@ -1,6 +1,6 @@
 ---
-title: Broken Stones Terms of Service
-permalink: /terms.html
+title: Broken Stones Privacy Policy
+permalink: /privacy.html
 ---
 
 # Broken Stones Privacy Policy
