@@ -1,5 +1,7 @@
-title	Broken Stones Privacy Policy
-permalink	/privacy.html
+---
+title: Broken Stones Privacy Policy
+permalink: /privacy.html
+---
 Broken Stones Privacy Policy
 Effective November 24, 2026
 
