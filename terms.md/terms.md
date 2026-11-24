@@ -1,3 +1,8 @@
+---
+title: Broken Stones Terms of Service
+permalink: /terms.html
+---
+
 # Broken Stones Terms of Service
 
 **Effective November 24, 2026**
